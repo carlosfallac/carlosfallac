@@ -43,6 +43,8 @@
 
 ###
 
-<img href="[https://raw.githubusercontent.com/carlosfallac/carlosfallac/blob/output/snake.svg](https://raw.githubusercontent.com/carlosfallac/carlosfallac/34d78f6f8c21a4b7fb034ddac936d115cab71382/snake.svg)" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/carlosfallac/carlosfallac/34d78f6f8c21a4b7fb034ddac936d115cab71382/snake.svg" alt="Snake animation" />
+
+<img href="https://raw.githubusercontent.com/carlosfallac/carlosfallac/blob/output/snake.svg" alt="Snake animation" />
 
 ###
